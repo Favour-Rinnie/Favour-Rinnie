@@ -58,7 +58,7 @@ B.Sc. Pure Chemistry – University of Jos
 
 Masters of Information Technology - Miva Open University
 
-Certifications in Data Science, Data Analytics & Machine Learning (Simplilearn, AHub)
+Certifications in Data Science, Data Analytics, Machine Learning & AI/Automation (Simplilearn, AHub, TS Academy)
 
 🤝 Let’s Connect
 

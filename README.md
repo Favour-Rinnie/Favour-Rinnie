@@ -55,7 +55,9 @@ Mentor – Data Analysis, Data Science, Machine Learning & Python (Kids, Teens &
 🎓 Education & Certifications
 
 B.Sc. Pure Chemistry – University of Jos
+
 Masters of Information Technology - Miva Open University
+
 Certifications in Data Science, Data Analytics & Machine Learning (Simplilearn, AHub)
 
 🤝 Let’s Connect

@@ -49,7 +49,9 @@ Kaggle
 🧑‍🏫 Experience Snapshot
 
 AI / Machine Learning Lead – nHub Nigeria
+
 Data Analysis Trainer – AHub Technologies
+
 Mentor – Data Analysis, Data Science, Machine Learning & Python (Kids, Teens & Adults)
 
 🎓 Education & Certifications
